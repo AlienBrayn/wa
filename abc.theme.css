@@ -16,23 +16,23 @@
 
 :root {
   --main-color: #9C27B0;
-  --hover-color: #781B87;
+  --hover-color: #A93BBB;
   --success-color: #43b581;
   --danger-color: #982929;
   --url-color: var(--main-color);
   --background-image: url('https://i.imgur.com/m984qSq.jpg');
-  --background-shading: 55%;
+  --background-shading: 30%;
   --background-position: center;
   --background-size: cover;
   --background-repeat: no-repeat;
   --background-attachment: fixed;
-  --background-brightness: 120%;
+  --background-brightness: 150%;
   --background-contrast: 100%;
   --background-saturation: 100%;
   --background-grayscale: 0%;
   --background-invert: 0%;
   --background-blur: 0px;
-  --background-overlay: rgba(0,0,0,0.6);
+  --background-overlay: rgb(0,0,0,0.6);
   --user-popout-image: transparent;
   --user-popout-position: center;
   --user-popout-size: cover;
