@@ -9,6 +9,7 @@
  * @BDEditor Clear Vision
 */
 
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@100;300;400;500;700&display=swap');
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
@@ -20,12 +21,12 @@
   --danger-color: #982929;
   --url-color: var(--main-color);
   --background-image: url('https://i.imgur.com/m984qSq.jpg');
-  --background-shading: 100%;
+  --background-shading: 55%;
   --background-position: center;
   --background-size: cover;
   --background-repeat: no-repeat;
   --background-attachment: fixed;
-  --background-brightness: 100%;
+  --background-brightness: 120%;
   --background-contrast: 100%;
   --background-saturation: 100%;
   --background-grayscale: 0%;
@@ -65,10 +66,10 @@
   --dnd-color: #982929;
   --streaming-color: #593695;
   --offline-color: #808080;
-  --main-font: gg sans;
+  --main-font: Source Sans Pro;
   --code-font: Consolas;
   --channels-width: 200px;
-  --members-width: 170px;
+  --members-width: 200px;
   --backdrop-overlay: rgba(0,0,0,0.8);
   --backdrop-image: var(--background-image);
   --backdrop-position: var(--background-position);
