@@ -64,8 +64,8 @@
 	background-color: var(--sidebar-color);
 }
 .titleBar-1it3bQ {
-  background-color: var(--sidebar-color);
+  background-color: rgba(0,0,0,0.5);
 }
-.container-ZMc96U {
-  background-color: var(--sidebar-color);
+.container-ZMc96U.themed-Hp1KC_ {
+    background-color: #00000033;
 }
