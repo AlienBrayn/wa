@@ -13,9 +13,9 @@
 @import url(https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css);
 
 :root {
-	--app-bg: #00000000;
+	--app-bg: #00000033;
 	--app-blur: 6px;
-	--app-margin: 24px;
+	--app-margin: 10px;
 	--app-radius: 8px; /*	-	*/
 	
 	--accent-hue: 156;
