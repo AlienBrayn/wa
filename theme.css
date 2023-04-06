@@ -16,7 +16,7 @@
 	--app-bg: #00000033;
 	--app-blur: 6px;
 	--app-margin: 0px;
-	--app-radius: 8px; /*	-	*/
+	--app-radius: 0px; /*	-	*/
 	
 	--accent-hue: 156;
 	--accent-saturation: 77.5%;
@@ -62,4 +62,10 @@
 }
 .container-2o3qEW {
 	background-color: var(--sidebar-color);
+}
+.titleBar-1it3bQ {
+  background-color: var(--sidebar-color);
+}
+.container-ZMc96U {
+  background-color: var(--sidebar-color);
 }
